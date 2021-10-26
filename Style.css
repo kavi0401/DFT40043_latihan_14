@@ -1,0 +1,16 @@
+body{
+    background-color: deepskyblue;
+    background-image: url('images/awan.jpg');
+    background-attachment: fixed;
+}
+
+div{
+    background-color: fuchsia;
+    width: 1000px;
+    height: 1500px;
+    background-image: url('image/bunga.png');
+    background-repeat: no-repeat;
+    /*background-position:right top;*/
+    background-position-x: 50px;
+    background-position-y: 50px;
+}
